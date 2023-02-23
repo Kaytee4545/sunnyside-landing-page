@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sunnyside-landing-page/static/css/main.2972becf.css",
+    "main.js": "/sunnyside-landing-page/static/js/main.f840764d.js",
+    "index.html": "/sunnyside-landing-page/index.html",
+    "main.2972becf.css.map": "/sunnyside-landing-page/static/css/main.2972becf.css.map",
+    "main.f840764d.js.map": "/sunnyside-landing-page/static/js/main.f840764d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2972becf.css",
+    "static/js/main.f840764d.js"
+  ]
+}
